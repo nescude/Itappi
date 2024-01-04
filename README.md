@@ -17,7 +17,7 @@ An app to learn italian. Currently only between italian-spanish, it may change i
   
 <h2>⚙️ Techs</h2>
   
-Powered by Expo. It can be built to get an Android or iOS application.
+Powered by Expo. Typescript. It can be built to get an Android or iOS application.
 
 <h2>✔️ Releases</h2>
 
