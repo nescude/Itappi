@@ -2,7 +2,7 @@
 
 <h1>🇬🇧 English</h1>
 
-An app to learn italian. Currently only between italian-spanish, it may change in the future to support more languages.
+An app to create your own italian dictionary and to learn testing your knowledge. Currently only between italian-spanish, it may change in the future to support more languages.
   
 <h2>📖 Features</h2>
   <ul>
