@@ -94,7 +94,6 @@ Utiliza Expo, Typescript y SQLite. Gestor de paquetes: npm. Se pueden crear vers
 <h2>✔️ Releases</h2>
 
 No habrá ninguna versión compilada en el futuro próximo. Se puede descargar el código fuente y compilarlo uno mismo. Se necesita una base de datos en la nube para exportar/importar traducciones por lo que no se puede ofrecer una versión compilada. Ver más en <b>¿Cómo empezar?</b>.
-There will not be any compiled version of the app in the near future. You can download the source code and compile it yourself. A proper cloud database is required for the app to work, see <b>Getting Started</b> for more info.
   
 <h2>🪄 ¿Cómo empezar?</h2>
 
