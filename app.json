@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Itappi",
+    "slug": "Itappi",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/pizza.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icons/itappi.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/pizza.png",
+        "backgroundColor": "#008D44"
+      },
+      "package": "com.nescude.itappi"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "-"
+      }
+    },
+    "plugins": [
+      [
+        "expo-barcode-scanner",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access camera."
+        }
+      ]
+    ]
+  }
+}
