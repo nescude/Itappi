@@ -45,9 +45,13 @@ First step is to download the source code, via 'git clone' or dowloading the sou
     <li><hlink>https://github.com/nescude/Itappi/releases</hlink></li>
   </ul>
 
-Next step is to install npm dependencies (inside your Itappi folder).
+Next step is to install npm dependencies (inside your Itappi folder):
 
 <code>npm install</code>
+
+To resolve Expo dependencies errors:
+
+<code>npx expo install --fix</code>
 
 Make sure you have JDK (for Java 11) installed and JAVA_HOME setted correctly.
 
@@ -104,9 +108,13 @@ Primero se debe descargar el código fuente, mediante 'git clone' o descargandol
     <li><hlink>https://github.com/nescude/Itappi/releases</hlink></li>
   </ul>
 
-El siguinte paso es instalar las librerias de npm (Dentro del directorio Itappi).
+El siguinte paso es instalar las librerias de npm (Dentro del directorio Itappi):
 
 <code>npm install</code>
+
+Para resolver problemas con las dependencias de Expo:
+
+<code>npx expo install --fix</code>
 
 Asegurarse de tener JDK (para Java 11) instalado y JAVA_HOME configurado correctamente.
 
